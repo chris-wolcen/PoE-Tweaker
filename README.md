@@ -9,6 +9,10 @@ Fine-tuning utility for the game Path of Exile, featuring performance tweaks com
 
 **Installation:** Extract the archive and run.  
 
+### Preview
+
+![PoE Tweaker](preview.gif)
+
 ### Program features
 
 #### Launcher
