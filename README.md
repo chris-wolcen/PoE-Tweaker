@@ -2,7 +2,7 @@
 
 Fine-tuning utility for the game Path of Exile, featuring performance tweaks coming from community efforts in attempt to make this game run smoother.
 
-**Download:** [Latest release](https://github.com/chris-wolcen/PoE-Tweaker/releases/latest).  
+**Download:** [Latest release](https://github.com/chris-wolcen/PoE-Tweaker/releases/latest)  
 
 **System requirements**: Windows 7, 8.1, 10 x86/x64. No depedencies*.  
 *\* .NET Framework only required for LibGGPK.dll (defrag functionality) to work, though you should already have it in your Win10*
