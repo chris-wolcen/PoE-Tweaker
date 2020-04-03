@@ -31,7 +31,6 @@ Also allows to create a desktop shortcut with selected set of parameters.
 [Drop Rights]
 
 Allows to run the game without Administrator privileges (works with desktop shortcut creation too!).
-
 This method utilizes WinAPI functions to create a process with restricted (Normal User) token.
 
 [Sounds]
