@@ -1,0 +1,14 @@
+[2020-04-03]
+v1.02
+-added new option: "Drop Rights" (accessible under Launch button), allowing to run the game without Administrator privileges (works with desktop shortcut creation too!)
+-added "Other" folders to Purge feature
+
+[2020-04-02]
+v1.01
+-added "--garbage-generation" param to Launcher
+-added "Logs" folder to Purge feature
+-small GUI improvement
+
+[2020-04-01]
+v1.0 
+-initial release
