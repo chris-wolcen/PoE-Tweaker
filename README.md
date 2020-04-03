@@ -2,15 +2,6 @@
 
 Fine-tuning utility for the game Path of Exile, featuring performance tweaks coming from community efforts in attempt to make this game run smoother.
 
-**Download:** [Latest release](https://github.com/chris-wolcen/PoE-Tweaker/releases/latest)  
-
-**System requirements**: Windows 7, 8.1, 10 x86/x64. No depedencies*.  
-*\* .NET Framework only required for LibGGPK.dll (defrag functionality) to work, though you should already have it in your Win10*
-
-**Installation:** Extract the archive and run.  
-
-**License:** Freeware
-
 ### Preview
 
 ![PoE Tweaker](preview.gif)
@@ -20,6 +11,10 @@ Fine-tuning utility for the game Path of Exile, featuring performance tweaks com
 #### Launcher
 Handy function allowing to quickly launch the game with different sets of command line parameters.  
 Also allows to create a desktop shortcut with selected set of parameters.
+
+#### Drop Rights
+Allows to run the game without Administrator privileges (works with desktop shorcut creation too!).  
+This method utilizes WinAPI functions to create a process with restricted (Normal User) token.
 
 #### Sounds
 Allows to actually DISABLE (not only mute) selected sounds.   
@@ -53,3 +48,15 @@ Helpful in case of memory leaks, especially on low memory systems. Use with caut
   Prevents overwriting game settings by ingame Options menu.
 
 More features coming in next release...
+
+**Download:** [Latest release](https://github.com/chris-wolcen/PoE-Tweaker/releases/latest)  
+
+**System requirements**  
+Windows 7, 8.1, 10 x86/x64. No depedencies*.  
+*\* .NET Framework only required for LibGGPK.dll (defrag functionality) to work, though you should already have it in your Win10*
+
+**Installation**  
+Extract the archive and run.  
+
+**License**  
+Freeware
