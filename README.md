@@ -13,7 +13,7 @@ Handy function allowing to quickly launch the game with different sets of comman
 Also allows to create a desktop shortcut with selected set of parameters.
 
 #### Drop Rights
-Allows to run the game without Administrator privileges (works with desktop shorcut creation too!).  
+Allows to run the game without Administrator privileges (works with desktop shortcut creation too!).  
 This method utilizes WinAPI functions to create a process with restricted (Normal User) token.
 
 #### Sounds
