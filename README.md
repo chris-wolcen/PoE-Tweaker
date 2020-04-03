@@ -51,7 +51,7 @@ More features coming in next release...
 
 ### Download
 
-**Download:** [Latest release](https://github.com/chris-wolcen/PoE-Tweaker/releases/latest)  
+[Latest release](https://github.com/chris-wolcen/PoE-Tweaker/releases/latest)  
 
 #### System requirements
 Windows 7, 8.1, 10 x86/x64. No depedencies*.  
