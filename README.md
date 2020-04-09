@@ -2,6 +2,11 @@
 
 Fine-tuning utility for the game Path of Exile, featuring performance tweaks coming from community efforts in attempt to make this game run smoother.
 
+**Virustotal scan:** [Link](https://www.virustotal.com/gui/url/fdcb5544262d57713ae340130bddeb2d758baa25c3400bda4d6af853ae51dc71/detection)
+
+**Download:** [Latest release](https://github.com/chris-wolcen/PoE-Tweaker/releases)
+
+
 ### Preview
 
 ![PoE Tweaker](preview.gif)
