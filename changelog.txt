@@ -1,3 +1,11 @@
+[2020-04-15]
+v1.03
+-reworked CPU Affinity section (can now be set up without game running) 
+-added new feature: "Move other processes to unused cores" (same as "cutting-edge technology" from a paid utility advertised on Steam, but without the bucks)
+-reworked Memory section and added advanced memory options (known from RAMMap)
+-fixed: PoE install directory detection now handles multiple installations (thanks to /u/LordAlmo for bug report)
+-fixed: "Drop Rights" now also drops process Integrity Level to Medium
+
 [2020-04-03]
 v1.02
 -added new option: "Drop Rights" (accessible under Launch button), allowing to run the game without Administrator privileges (works with desktop shortcut creation too!)
