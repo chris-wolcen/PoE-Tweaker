@@ -1,6 +1,6 @@
 # PoE Tweaker
 
-Fine-tuning utility for the game Path of Exile, featuring performance tweaks coming from community efforts in attempt to make this game run smoother. Contains some extra performance boosting features, known from paid utilities heavily advertised on Steam (but completely free!). Programmed to be as easy to use as possible. Just set and forget!
+Fine-tuning utility for the game Path of Exile, featuring performance tweaks coming from community efforts in attempt to make this game run smoother. Contains some extra performance boosting features, known from paid utilities heavily advertised on Steam (but completely FREE). Programmed to be as easy to use as possible. Just set and forget!
 
 ### Preview
 
