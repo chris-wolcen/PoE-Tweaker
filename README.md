@@ -1,6 +1,6 @@
 # PoE Tweaker
 
-Fine-tuning utility for the game Path of Exile, featuring performance tweaks coming from community efforts in attempt to make this game run smoother.
+Fine-tuning utility for the game Path of Exile, featuring performance tweaks coming from community efforts in attempt to make this game run smoother. Contains some extra performance boosting features, known from paid utilities heavily advertised on Steam, but completely FREE.
 
 ### Preview
 
@@ -36,7 +36,8 @@ Limiting "Maximum processor state" by few percent off, can be helpful in case of
 Allows to assign less (or more) CPU resources to the game.  
 Limiting cores available to the game, can help with freezes related to "CPU hogging" issue.  
 These settings are preserved and applied automatically every time the game starts (as long as this program is running). 
-  
+Also has a feature to move other processes to unused cores for an extra performance boost.
+ 
 #### Memory Usage
 Monitors Path of Exile memory usage. Allows to force the game to release memory if it has consumed too much.   
 Helpful in case of memory leaks, especially on low memory systems. Use with caution!
