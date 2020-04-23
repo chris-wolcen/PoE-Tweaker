@@ -38,8 +38,8 @@ Limiting "Maximum processor state" by few percent off, can be helpful in case of
 #### CPU Affinity
 Allows to assign less (or more) CPU resources to the game.  
 Limiting cores available to the game, can help with freezes related to "CPU hogging" issue.  
+Additional feature to move other processes to unused cores, can yield an extra performance boost.  
 These settings are preserved and applied automatically every time the game starts (as long as this program is running).  
-Also has a feature to move other processes to unused cores for an extra performance boost.
  
 #### Memory Usage
 Monitors Path of Exile memory usage. Allows to force the game to release memory if it has consumed too much.   
