@@ -1,4 +1,8 @@
 [2020-04-23]
+v1.06
+-maintenance release: GUI fixes, updated readme
+
+[2020-04-23]
 v1.05
 -rewritten Power Manager code, now allows to switch power plans
 -added new feature: "Instant disconnect", also known as "Logout Macro" (though faster as its a direct API call from native code)

@@ -57,6 +57,7 @@ Limiting "Maximum processor state" by few percent off, can be helpful in case of
 
 Allows to assign less (or more) CPU resources to the game.
 Limiting cores available to the game, can help with freezes related to "CPU hogging" issue.
+Additional feature to move other processes to unused cores, can yield an extra performance boost.
 These settings are preserved and applied automatically every time the game starts (as long as this program is running).
 
 [Memory Usage]
@@ -71,4 +72,7 @@ Helpful in case of memory leaks, especially on low memory systems. Use with caut
     
 - Make production_Config.ini read-only
   Prevents overwriting game settings by ingame Options menu.
+
+- Instantly disconnect on pressing a hotkey
+  Causes an instant disconnection by dropping all TCP connections of the game. Useful for HC.
 
