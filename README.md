@@ -47,6 +47,8 @@ Helpful in case of memory leaks, especially on low memory systems. Use with caut
   Helps to save CPU/GPU usage when Alt-Tabbed. Only works if this program is running.
 * Make production_Config.ini read-only  
   Prevents overwriting game settings by ingame Options menu.
+* Instanly disconnect on pressing a hotkey  
+  Causes an instant disconnection by dropping all TCP connections of game process. Useful for HC. 
 
 More features coming in next release...
 
