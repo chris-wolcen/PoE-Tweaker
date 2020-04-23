@@ -2,7 +2,7 @@
 
 Fine-tuning utility for the game Path of Exile, featuring performance tweaks coming from community efforts in attempt to make this game run smoother. Contains some extra performance boosting features, known from paid utilities heavily advertised on Steam (but completely FREE). Programmed to be as easy to use as possible. Just set and forget!
 
-**Download:** [Latest release](https://github.com/chris-wolcen/PoE-Tweaker/releases/latest)
+**Download:** [Latest release](https://github.com/chris-wolcen/PoE-Tweaker/releases/latest)  
 **VirusTotal:** [Scan](https://www.virustotal.com/gui/file/7a52ba5c337fb35ccd9388637c4f62c11fc87ccd0bb96c5ada0a76ace6469723/detection)
 
 ### Preview
