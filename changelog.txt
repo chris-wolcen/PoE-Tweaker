@@ -1,3 +1,7 @@
+[2020-04-24]
+v1.07
+-fixed a bug, where the game could display "There's a patch you need to update to. Please restart Path of Exile" error message when logging in, while running under "Drop Rights" mode. Thanks to minhpro279 for bug report.
+
 [2020-04-23]
 v1.06
 -maintenance release: GUI fixes, updated readme
