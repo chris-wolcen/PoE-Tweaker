@@ -51,7 +51,7 @@ Helpful in case of memory leaks, especially on low memory systems. Use with caut
 * Make production_Config.ini read-only  
   Prevents overwriting game settings by ingame Options menu.
 * Instantly disconnect on pressing a hotkey  
-  Causes an instant disconnection by dropping all TCP connections of the game. Useful for HC. 
+  Causes an instant logout by dropping all TCP connections of the game. Useful for HC. 
 
 More features coming in next release...
 
