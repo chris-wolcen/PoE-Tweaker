@@ -13,10 +13,9 @@ System requirements:
   Windows 7, 8.1, 10 x86/x64
   LibGGPK.dll (defrag functionality) requires .NET Framework installed
 
-
-Installation  
-
+Installation
 ~~~~~~~~~~~~~~~~
+
 Extract the archive and run.
 
 
@@ -74,5 +73,5 @@ Helpful in case of memory leaks, especially on low memory systems. Use with caut
   Prevents overwriting game settings by ingame Options menu.
 
 - Instantly disconnect on pressing a hotkey
-  Causes an instant disconnection by dropping all TCP connections of the game. Useful for HC.
+  Causes an instant logout by dropping all TCP connections of the game. Useful for HC.
 
