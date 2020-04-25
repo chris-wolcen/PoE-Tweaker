@@ -74,6 +74,6 @@ Freeware
 **Q: Is it open source?**  
 A: Not for now, mainly due to the effort it took to implement extra features you'd otherwise have to pay for (known from paid utilities heavily advertised on Steam: CPU***** / Clear***). Writing the memory freeing function even involved some reverse engineering (to rip RAMMap features). However, I herein oblige to release the source code as soon as I lose interest in developing this program (or playing the game), so someone else could continue from that point.    
 
-**Q: Can I get banned for using this program?**  
+**Q: Can I get banned for using it?**  
 A: No. This program is created to be ToS friendly (and I'm familiar with them).  
 It doesn't do anything that's against the ToS of Path of Exile.
