@@ -1,3 +1,9 @@
+[2020-04-26]
+v1.08
+-added Graphics settings: "Dynamic Resolution" with an ability to set its framerate over the limit of 60 (per tip by /u/AaronPoe) and "Engine Multithreading" (just as a shortcut due to being commonly used performance setting)
+-added Dark theme
+-some GUI changes
+
 [2020-04-24]
 v1.07
 -fixed a bug, where the game could display "There's a patch you need to update to. Please restart Path of Exile" error message when logging in, while running under "Drop Rights" mode. Thanks to minhpro279 for bug report.
