@@ -1,6 +1,6 @@
 [2020-04-26]
 v1.08
--added Graphics settings: "Dynamic Resolution" with an ability to set its framerate over the limit of 60 (per tip by /u/AaronPoe) and "Engine Multithreading" (just as a shortcut due to being commonly used performance setting)
+-added Graphics settings: "Dynamic Resolution" with an ability to set its target framerate over the limit of 60 (per tip by /u/AaronPoe) and "Engine Multithreading" (just as a shortcut due to being commonly used performance setting)
 -added Dark theme
 -some GUI changes
 
