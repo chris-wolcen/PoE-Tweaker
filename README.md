@@ -17,7 +17,8 @@ Also allows to create a desktop shortcut with selected set of parameters.
 
 #### Drop Rights
 Allows to run the game without Administrator privileges (works with desktop shortcut creation too!).  
-This method utilizes WinAPI functions to create a process with restricted (Normal User) token.
+This method utilizes WinAPI functions to create a process with restricted (Normal User) token.  
+While running in this mode, the game will be denied (by the OS) from interacting with elevated processes.
 
 #### Sounds
 Allows to actually DISABLE (not only mute) selected sounds.   
